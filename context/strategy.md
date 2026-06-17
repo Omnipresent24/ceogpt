@@ -35,11 +35,11 @@ Omnipresent von einer Solo-Nebenaktivität zu einem profitablen Unternehmen entw
 
 ---
 
-## Konkrete MRR-Meilensteine (zu definieren)
+## Konkrete MRR-Meilensteine (HYPOTHESEN, nicht Regeln)
 
 **Beispiel einer realistischen Roadmap:**
 
-| MRR-Level | Aktion | Zeitrahmen |
+| MRR-Level | Mögliche Aktion | Zeitrahmen |
 |---|---|---|
 | **Aktuell: 100€** | Kundengewinnung, Referenzen sammeln | jetzt |
 | **500–1.000€** | 3–5 Kunden, erste Referenzen | Q3 2026 |
@@ -48,7 +48,17 @@ Omnipresent von einer Solo-Nebenaktivität zu einem profitablen Unternehmen entw
 | **5.000€** | Prüfung: Wechsel in Teilzeit bei DB? | ? |
 | **8.000€+** | Prüfung: Vollzeit-Selbstständigkeit? | ? |
 
-**OFFEN:** Diese Meilensteine sind ein Vorschlag. Deine echten Ziele sind noch zu definieren.
+**⚠️ WICHTIG:**
+
+Diese Zahlen sind **Orientierungswerte, nicht Regeln**. Bevor du eine echte berufliche Entscheidung auf MRR-Basis triffst, prüf auch:
+
+- **Stabilität der Umsätze** — ist es 1 großer Kunde oder mehrere kleinere?
+- **Laufzeiten der Verträge** — wie sicher sind die 3.000€ nächsten Monat?
+- **Kundenkonzentration** — bricht alles zusammen, wenn ein Kunde kündigt?
+- **Tatsächlicher Gewinn** — nicht Umsatz, sondern was bleibt nach Kosten?
+- **Rücklagen** — hast du 6 Monate Puffer für den Wechsel?
+
+Die MRR-Zahlen sind ein Alarm, der sagt "jetzt prüfen". Die echte Entscheidung brauchst du auf Basis vollständigerer Daten.
 
 ---
 
@@ -194,9 +204,44 @@ Dein CEO-GPT wird nicht durch mehr Dateien/Module besser — sondern durch prakt
 
 ---
 
+## Fokus schlägt Perfektion
+
+**WICHTIG:** Bei 1 Kunden und 100€ MRR ist die größte Arbeit nicht, das CEO-GPT zu verfeinern.
+
+Die größte Arbeit ist:
+
+- **Kundengespräche führen** — mehr Interessenten
+- **Angebote schreiben** — schneller, überzeugender
+- **Sichtbarkeit aufbauen** — woher kommen die nächsten 5 Leads?
+- **Referenzen sammeln** — den einen Kunden zum Referenzkunden machen
+
+Der CEO-GPT ist dann wertvoll, wenn er **jeden Tag hilft**, nicht wenn er perfekt dokumentiert ist.
+
+Das bedeutet konkret:
+
+- Wochenplanung: "Was muss diese Woche für Kundengewinnung passieren?"
+- Angebotshilfe: "Ich habe 30 min für ein Angebot. Was ist die Struktur?"
+- Priorisierung: "Omnipresent oder Oberberg+ diese Woche?"
+- Entscheidungshilfe: "Sollte ich diese Feature für Oberberg+ bauen?"
+
+**Nicht:**
+
+- weitere Dokumentation perfektionieren
+- neue Module installieren (daten, intelligenz, etc.)
+- weitere Automation aufbauen
+- neue Projekte planen
+
+**Messlatte: Kann das System dir helfen, in 6 Monaten von 1 Kunden zu 5–10 Kunden zu kommen?**
+
+Wenn ja: Das Framework funktioniert.  
+Wenn nein: Das Framework hat ein Problem, das man dann löst.
+
+---
+
 ## Änderungen dieser Strategie
 
 Diese Strategie wird regelmäßig überprüft und angepasst:
 - Monatlich: Stand der Zahlen vs. Ziele prüfen
 - Quartal: Große Pivot-Entscheidungen wenn nötig
 - Nach großen Meilensteinen: Neuaufstellung
+- **Jederzeit:** wenn die praktische Nutzung zeigt, dass die Strategie nicht funktioniert
