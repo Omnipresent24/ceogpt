@@ -17,16 +17,29 @@
 
 ---
 
-## Omnipresent — Geschäftszahlen
+## Omnipresent — Geschäftszahlen & Metriken
 
-| Kennzahl | Wert | Notiz |
-|---|---|---|
-| **Gründungsdatum** | 18.01.2026 | Alter: ~5 Monate |
-| **Aktive Kunden** | 1 | Noch nicht an Referenzen/Testimonial herangegangen |
-| **MRR (Monthly Recurring Revenue)** | 100€ | 1 Kunde x 119€/Monat (stark vereinfacht) |
-| **Variable Projektumsätze** | gering | Projektgeschäft noch nicht im Fokus |
-| **Gesamtumsatz (geschätzt, YTD)** | ~1.000–1.500€ | Grobe Schätzung (Januar–Juni) |
-| **Ziel MRR (6 Monate)** | 2.000–3.000€ | 5–10 zahlende Kunden |
+**Zu Beginn jeder Sitzung diese Metriken aktualisieren:**
+
+| Kennzahl | aktuell | Trend | Notiz |
+|---|---|---|---|
+| **Aktive Kunden** | 1 | — | baseline |
+| **MRR (Monthly Recurring Revenue)** | 100€ | — | 1 Kunde x 119€/Monat |
+| **Offene Angebote** | ? | — | zu tracken ab nächsten Monat |
+| **Gewonnene Angebote (diesen Monat)** | ? | — | zu tracken |
+| **Pipeline (Interessenten)** | ? | — | zu tracken |
+| **Projektumsätze (variable)** | ? | — | zu tracken |
+| **Gesamtumsatz (YTD)** | ~1.000–1.500€ | — | Januar–Juni 2026 |
+
+**Geschäftshintergrund:**
+
+| Item | Wert |
+|---|---|
+| **Gründungsdatum** | 18.01.2026 |
+| **Alter** | ~5 Monate |
+| **Status** | Markteintritt, Kundengewinnung läuft |
+
+**WICHTIG:** Diese Sektion wird monatlich aktualisiert. Der CEO-GPT braucht frische Daten, um nützlich zu sein.
 
 ---
 

@@ -22,15 +22,45 @@
 
 ---
 
-## Nordstern (Übergeordnetes Ziel)
+## Nordstern & konkrete Meilensteine
 
-**Fakt:**
-Omnipresent von einer Solo-Nebenaktivität zu einem echten, profitablen Unternehmen aufbauen. Das Business soll unabhängig funktionieren und dir Einnahmen generieren.
+**Obergeordnetes Ziel:**
+Omnipresent von einer Solo-Nebenaktivität zu einem profitablen Unternehmen entwickeln, das dir finanzielle Unabhängigkeit ermöglicht.
 
-**Offene Fragen zum Nordstern:**
-- Wie viele zahlende Kunden sind das konkrete Ziel? (Analyse: 5–10 wären realistisch, aber das ist deine Entscheidung)
-- Welche Höhe wiederkehrender Umsatz ist das Ziel? (Zielstandard: 5.000€ netto monatlich persönlich, aber Omnipresent-Umsatz vs. persönliches Einkommen müssen separat betrachtet werden)
-- Zeitrahmen für Vollzeit-Selbstständigkeit? (Annahme: 2026, aber nicht geklärt)
+**Finanzielle Realität (wichtig):**
+- Privater Zielstandard: 5.000€ netto/Monat
+- Das ist NICHT der Unternehmensgewinn, den Omnipresent erwirtschaften muss
+- Mit Steuern, KV, Altersvorsorge, Rücklagen, Geschäftskosten braucht Omnipresent eher **7.000–9.000€ Unternehmensgewinn monatlich**
+- Das ist das echte Ziel, nicht die 5.000€
+
+---
+
+## Konkrete MRR-Meilensteine (zu definieren)
+
+**Beispiel einer realistischen Roadmap:**
+
+| MRR-Level | Aktion | Zeitrahmen |
+|---|---|---|
+| **Aktuell: 100€** | Kundengewinnung, Referenzen sammeln | jetzt |
+| **500–1.000€** | 3–5 Kunden, erste Referenzen | Q3 2026 |
+| **1.500–2.000€** | 5–8 Kunden, Prozesse optimieren | Q4 2026 |
+| **3.000€** | Prüfung: Reduzierung DB-Stunden auf Teilzeit? | ? |
+| **5.000€** | Prüfung: Wechsel in Teilzeit bei DB? | ? |
+| **8.000€+** | Prüfung: Vollzeit-Selbstständigkeit? | ? |
+
+**OFFEN:** Diese Meilensteine sind ein Vorschlag. Deine echten Ziele sind noch zu definieren.
+
+---
+
+## Fokus-Prinzip
+
+**Das ist bewusst einfach:**
+
+- **Omnipresent = Cashflow-Motor** — muss funktionieren, muss wachsen
+- **Oberberg+ = langfristige Wette** — parallel, aber nicht auf Kosten von Omnipresent
+- **Alles andere = Ablenkung** — SubSafe, neue Projekte, neue Module: nicht jetzt
+
+**Warum?** Mit 1 Kunden und 100€ MRR ist die höchste Priorität: mehrere zahlende Kunden gewinnen. Alles andere zerfasert die Energie.
 
 ---
 
@@ -87,42 +117,50 @@ Omnipresent von einer Solo-Nebenaktivität zu einem echten, profitablen Unterneh
 
 ---
 
-### Priorität 3: Persönliche Effizienz & Energiemanagement
+### Priorität 3: CEO-GPT praktisch einsetzen (nicht weitere Module)
 
 **ZIEL:**
-- Nicht ins Burnout gehen
-- operativen Aufwand schrittweise reduzieren (Automatisierung, Templates, Prozesse)
-- Work-Life-Balance behalten
+Dein CEO-GPT wird nicht durch mehr Dateien/Module besser — sondern durch praktische Nutzung:
 
-**HEBEL:**
-1. **Vorlagen & SOPs** — Angebots-Templates, Projekt-Checklisten, Onboarding
-2. **KI stärker nutzen** — für Texte, Analysen, Kundenkommunikation
-3. **Delegieren/Outsourcen** — wo sinnvoll (z.B. Design, Social Media, Buchhaltung)
+- Wochenplanung: Was muss diese Woche passieren für Kundengewinnung?
+- Vertriebspipeline: Wer sind die nächsten 5 Interessenten?
+- Angebotskalkulation: Ist das Preis-Modell richtig?
+- Priorisierung: Was blockiert am meisten?
+- Oberberg+ Strategie: Wenn Zeit bleibt, was ist der nächste Schritt?
 
-**Nicht der Fokus:** große Automatisierung oder Prozess-Overhaul. Kleine Wins zählen.
+**Nicht machen:**
+- `/install module-installs/daten` (nicht nötig, bis der Umsatz trackenswert ist)
+- neue Automatisierungen (später)
+- weitere Projekte ausbauen (Fokus)
+
+**Das ist der Kern:** dein Mitarbeiter hilft dir jeden Tag bei echten Entscheidungen und Arbeit, nicht bei Planung von Planung.
 
 ---
 
-## Wie Erfolg aussieht (offen zur Definition)
+## Wie Erfolg aussieht (konkrete Definition)
 
-**OFFENE FRAGE:** Wie würdest du selbst "Erfolg" definieren für die nächsten 6 Monate?
+**Für die nächsten 6 Monate (bis Dezember 2026):**
 
-**MÖGLICHE INDIKATOREN (nicht deine verbindlichen Ziele, sondern zur Diskussion):**
+### Omnipresent (Hauptfokus)
+- **mindestens 5–8 zahlende Kunden** (aktuell: 1)
+- **MRR: 500–1.500€** (aktuell: 100€)
+- **2–3 starke Fallstudien/Testimonials** (aktuell: keine)
+- **klare Vertriebspipeline**: wissen, woher die nächsten 3–5 Kunden kommen
 
-Omnipresent:
-- mehrere zahlende Kunden (nicht nur 1)
-- solide MRR, die Profitabilität andeuten
-- 2–3 Fallstudien/Testimonials
+### Oberberg+ (parallel, nicht im Fokus)
+- **technisch marktreif** (aktuell: 70–80%)
+- **ODER: bewusst hinten angestellt**, um Omnipresent-Energie freizumachen
+- **IF Ressourcen vorhanden:** erste 3–5 Beta-Kunden gewinnen
 
-Oberberg+:
-- technisch marktreif oder im Launch
-- erste Partner/Kunden gewonnen
-- oder: bewusst hinten angestellt, um Omnipresent zu focussieren
+### Persönlich
+- **klare wöchentliche Routine**: wann Omnipresent, wann Oberberg+, wann DB-Job
+- **Dashboard laufen lassen**: monatliche Metriken tracken, nicht raten
+- **emotional:** Sicherheit, dass Omnipresent die richtige Richtung hat
 
-Persönlich:
-- klare Zeitverteilung zwischen Projekten
-- Prozesse/Automatisierung, die operative Last reduzieren
-- emotional: Sicherheit, dass die Richtung stimmt
+**Nicht Erfolg:**
+- neue Projekte anfangen (SubSafe, neue Ideen)
+- das CEO-GPT weiter ausbauen (Module installieren)
+- theoretische Planung ohne echte Kundengespräche
 
 ---
 
