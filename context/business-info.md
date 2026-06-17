@@ -17,10 +17,12 @@
 
 **Omnipresent** ist eine Performance- und Digitalagentur, die lokale Unternehmen, Handwerker und Dienstleister dabei unterstützt, professioneller online aufzutreten und mehr Kundenanfragen zu gewinnen.
 
+**Kernziel:** Aufbau eines eigenständigen, profitablen Unternehmens im Bereich Websites, Marketing, KI und Automatisierung. Omnipresent ist kein Hobbyprojekt und keine reine Finanzierung für andere Ideen — es soll ein echtes Business werden.
+
 Fokus: nicht "schöne Websites", sondern messbare Ergebnisse (mehr Anfragen, bessere Conversion, klarere Kommunikation).
 
 **Gründung:** 18.01.2026  
-**Status:** Nebengewerbe (aktuell noch nicht Vollzeit)
+**Status:** Nebengewerbe (aktuell parallel zum Vollzeitjob bei Deutscher Bahn)
 
 ---
 

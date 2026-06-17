@@ -24,15 +24,13 @@
 
 ## Nordstern (Übergeordnetes Ziel)
 
-**Ziel für 2026:**
+**Fakt:**
+Omnipresent von einer Solo-Nebenaktivität zu einem echten, profitablen Unternehmen aufbauen. Das Business soll unabhängig funktionieren und dir Einnahmen generieren.
 
-Omnipresent von einer Solo-Nebenaktivität zu einem echten Unternehmen entwickeln, das dir ermöglicht, im Laufe des Jahres in die Selbstständigkeit überzugehen.
-
-**Das bedeutet konkret:**
-- 5–10 zahlende Kunden aufbauen (aktuell: 1)
-- ~5.000€ netto monatlich in wiederkehrenden Umsätzen (aktuell: 100€ MRR)
-- solide Kundenbasis und Referenzen haben
-- Oberberg+ parallel soweit validieren, dass es ein reales zweites Standbein sein könnte
+**Offene Fragen zum Nordstern:**
+- Wie viele zahlende Kunden sind das konkrete Ziel? (Analyse: 5–10 wären realistisch, aber das ist deine Entscheidung)
+- Welche Höhe wiederkehrender Umsatz ist das Ziel? (Zielstandard: 5.000€ netto monatlich persönlich, aber Omnipresent-Umsatz vs. persönliches Einkommen müssen separat betrachtet werden)
+- Zeitrahmen für Vollzeit-Selbstständigkeit? (Annahme: 2026, aber nicht geklärt)
 
 ---
 
@@ -44,11 +42,16 @@ Omnipresent von einer Solo-Nebenaktivität zu einem echten Unternehmen entwickel
 - 1 aktiver Kunde
 - 100€ MRR
 - noch keine Referenzen/Fallstudien
+- hauptsächlicher Fokus deiner Zeit und Energie
 
-**ZIEL:**
-- 5–10 zahlende Kunden (mindestens 5)
-- 2.000–3.000€ MRR aufbauen
-- 2–3 starke Kundenstimmen / Fallstudien haben
+**ANALYSE (kein verbindliches Ziel, aber ein Meilenstein):**
+- 5–10 zahlende Kunden würden einen soliden Start bedeuten
+- 2.000–3.000€ MRR wäre ein realistischer Meilenstein
+- 2–3 Kundenstimmen / Fallstudien würden die Verkaufskraft erhöhen
+
+**OFFENE FRAGEN:**
+- Wie viele Kunden sollen es konkret sein?
+- Welcher MRR-Betrag ist dein eigentliches Ziel für Omnipresent?
 
 **HEBEL:**
 1. **Netzwerk & Akquise** — lokale Unternehmer im Oberbergischen Kreis ansprechen
@@ -61,25 +64,26 @@ Omnipresent von einer Solo-Nebenaktivität zu einem echten Unternehmen entwickel
 
 ---
 
-### Priorität 2: Oberberg+ — Validierung & erste Kunden
+### Priorität 2: Oberberg+ — Das wichtigste Eigenprojekt neben Omnipresent
 
 **FAKTEN:**
-- technischer Aufbau weit fortgeschritten
+- Oberberg+ ist dein strategisch wichtigstes Eigenprojekt (neben Omnipresent)
+- technischer Aufbau weit fortgeschritten (~70–80%)
 - noch 0 zahlende Unternehmen
 - noch 0 Umsätze
 
-**ZIEL:**
-- 5–10 Unternehmen auf der Plattform (als Partner/Beta-Kunden)
-- Go-Live oder "Early Access"-Phase
-- Geschäftsmodell validieren (funktioniert die Idee oder nicht?)
+**ZIEL (noch zu klären):**
+- Wann soll Oberberg+ marktreif sein?
+- Wie viele erste Partner/Kunden sind angestrebt?
+- Parallel zu Omnipresent oder erst danach?
 
-**HEBEL:**
+**HEBEL (für den Fall, dass du Energien darauf verwendest):**
 1. **Plattform marktreif machen** — fehlende Features abschließen
-2. **erste Unternehmen (akquirieren** — aus lokalem Netzwerk, Kampfsportschulen, Gastronomie, etc.
+2. **erste Unternehmen akquirieren** — aus lokalem Netzwerk, Kampfsportschulen, Gastronomie, etc.
 3. **Geschäftsmodell testen** — funktioniert das Pricing/Gebührenmodell?
 4. **Community aufbauen** — erste Partner zu Testimonials/Referenzen machen
 
-**ACHTUNG:** Oberberg+ ist nicht zu ignorieren (großes Hebel-Potenzial), aber auch nicht **deine** Hauptenergie. Omnipresent geht vor.
+**ACHTUNG:** Oberberg+ hat großes Hebel-Potenzial, aber Omnipresent hat aktuell die höhere Priorität. Die exakte Balance zwischen beiden ist noch offene Frage.
 
 ---
 
@@ -99,50 +103,48 @@ Omnipresent von einer Solo-Nebenaktivität zu einem echten Unternehmen entwickel
 
 ---
 
-## Wie Erfolg aussieht (in 6 Monaten)
+## Wie Erfolg aussieht (offen zur Definition)
 
-Wenn Dezember 2026 kommt und die letzten 6 Monate gut liefen:
+**OFFENE FRAGE:** Wie würdest du selbst "Erfolg" definieren für die nächsten 6 Monate?
 
-- **Omnipresent:** 5–10 zahlende Kunden, 2.000–3.000€ MRR, 2–3 Fallstudien/Testimonials
-- **Oberberg+:** erste zahlende Unternehmen oder validiertes Modell
-- **Du persönlich:** weniger täglich im Einsatz, mehr strategisches Denken, klare Überblick über nächste Schritte
-- **Finanziell:** klare Trajectory zu 5.000€ netto monatlich möglich sehen
+**MÖGLICHE INDIKATOREN (nicht deine verbindlichen Ziele, sondern zur Diskussion):**
 
-Das bedeutet nicht, dass alles perfekt ist. Aber: ein klares Fundament mit echtem Kundenfeedback.
+Omnipresent:
+- mehrere zahlende Kunden (nicht nur 1)
+- solide MRR, die Profitabilität andeuten
+- 2–3 Fallstudien/Testimonials
+
+Oberberg+:
+- technisch marktreif oder im Launch
+- erste Partner/Kunden gewonnen
+- oder: bewusst hinten angestellt, um Omnipresent zu focussieren
+
+Persönlich:
+- klare Zeitverteilung zwischen Projekten
+- Prozesse/Automatisierung, die operative Last reduzieren
+- emotional: Sicherheit, dass die Richtung stimmt
 
 ---
 
-## Entscheidungen & offene Fragen
+## Offene Fragen & zu klärende Punkte
 
-### OFFEN:
+### Business-Strategie
 
-1. **Akquisitionsstrategie:** Wie kommen die nächsten 5 Kunden zu dir?
-   - Kaltakquise im Oberbergischen Kreis?
-   - Netzwerk-Referrals?
-   - Content/Marketing?
-   - Paid Ads?
+1. **Konkretes Umsatzziel:** Welcher MRR/Jahresumsatz ist das Ziel für Omnipresent?
+2. **Kundengewinnung:** Wie sollen die nächsten Kunden akquiriert werden?
+   - Kaltakquise? Netzwerk? Content? Paid Ads?
+3. **Angebots-Fokus:** Auf welche Services fokussieren? (Website, Marketing, KI — oder alles gleich?)
+4. **Preis-Strategie:** Ist das Hybrid-Modell (990€ + 119€/Monat) optimal?
+5. **Oberberg+ Roadmap:** Wann soll die Plattform marktreif sein? Wie viel Zeit parallel zu Omnipresent?
 
-2. **Angebots-Fokus:** Auf welches Angebot fokussieren?
-   - "Websites für lokale Unternehmen"?
-   - "Lead-Generierung"?
-   - "KI-Automationen"?
-   - Oder alles anbieten?
+### Persönliche Situation & Finances
 
-3. **Preis-Strategie:** Ist das aktuelle Hybrid-Modell optimal?
-   - 990€ Setup + 119€ Monat?
-   - Oder eher Retainer-Only?
-   - Performance-Komponente?
-
-4. **Team/Outsourcing:** Brauchst du externe Unterstützung?
-   - Designer?
-   - Social-Media?
-   - Kundenbetreuung?
-
-5. **Zeitrahmen:** Wie realistisch ist "im Laufe 2026 in die Selbstständigkeit gehen"?
-   - Eher Q4 2026?
-   - Oder eher Q1 2027?
-
-6. **Oberberg+ Fokus:** Wie viel Energie soll in Oberberg+ fließen vs. Omnipresent?
+1. **Exaktes Nettoeinkommen:** Deutsche Bahn — genaue monatliche Summe?
+2. **SafeGuard Einnahmen:** Durchschnitt pro Monat? Wie oft verfügbar?
+3. **Private Fixkosten:** Exakte monatliche Ausgaben (nicht die geschätzten 2.500€)?
+4. **Rücklagen & Runway:** Exakte Höhe der verfügbaren Mittel? Wie lange reicht das?
+5. **Selbstständigkeits-Timeline:** Realistischer Zeitrahmen für Vollzeit-Arbeit an Omnipresent?
+   - 2026? 2027? Abhängig von MRR-Erreichung?
 
 ---
 

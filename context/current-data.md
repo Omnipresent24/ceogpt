@@ -30,14 +30,26 @@
 
 ---
 
-## Oberberg+ — Plattform-Stand
+## Oberberg+ — Wichtigstes Eigenprojekt (Plattform)
 
 | Kennzahl | Wert | Notiz |
 |---|---|---|
+| **strategische Rolle** | wichtigstes Eigenprojekt | neben Omnipresent, langfristiger Hebel |
 | **technischer Status** | 70–80% | Funktionsfähig, aber nicht komplett poliert |
-| **Unternehmen on Platform** | 0 | noch kein Soft Launch |
+| **Unternehmen on Platform** | 0 | noch kein Launch |
 | **Zahlende Partner** | 0 | Geschäftsmodell noch nicht validiert |
 | **Umsätze** | 0€ | Pre-Launch-Phase |
+| **Zeitrahmen bis Launch** | OFFEN | zu klären |
+
+## SubSafe — Test-/Lernprojekt
+
+| Kennzahl | Wert | Notiz |
+|---|---|---|
+| **Status** | Test-Projekt | Entwickelt als Lernprojekt, aktuell nicht aktiv |
+| **strategische Priorität** | keine | nicht im Fokus |
+| **Umsätze** | 0€ | kein geschäftlicher Fokus |
+
+**Hinweis für zukünftige Sessions:** SubSafe wurde als Experiment/Lernprojekt entwickelt. Es sollte aktuell nicht als strategisches Projekt behandelt werden.
 
 ---
 
@@ -45,27 +57,29 @@
 
 ### Einnahmen (monatlich, aktuell)
 
-| Quelle | Monatlich | Status |
-|---|---|---|
-| **Deutsche Bahn** | ~2.000€ netto | Hauptjob, stabil |
-| **SafeGuard** | 300–500€ | Sporadisch (wenn Schichten möglich) |
-| **Omnipresent** | 100€ | nur 1 Kunde |
-| **Gesamt (aktuell)** | 2.400–2.600€ | Zielstandard: 5.000€ netto |
+| Quelle | Betrag | Status | OFFEN |
+|---|---|---|---|
+| **Deutsche Bahn** | ~2.000€ netto (geschätzt) | Hauptjob, stabil | Exakte Summe? |
+| **SafeGuard** | 300–500€ (sporadisch) | Wenn Schichten verfügbar | Durchschnitt pro Monat? |
+| **Omnipresent** | 100€ MRR | 1 Kunde | Wird aufgebaut |
+| **Gesamt (aktuell)** | ~2.400–2.600€ | geschätzt | Exakte Summe aus DB nötig |
 
 ### Ausgaben & Vermögen
 
-| Item | Betrag | Status |
-|---|---|---|
-| **monatliche Ausgaben** | ~2.500€ | Haushalt (du + Frau + 2 Kinder) |
-| **Kindergeld/Unterhalt** | enthalten | Hilft bei Ausgaben |
-| **Rücklagen/Vermögen** | ~5.000€ | Gering, aber vorhanden |
-| **finanzielle Lage** | Stabil | nicht kritisch, aber keine großen Puffer |
+| Item | Betrag | Status | OFFEN |
+|---|---|---|---|
+| **monatliche Ausgaben** | ~2.500€ | Haushalt (du + Frau + 2 Kinder) | Exakte Fixkosten? |
+| **Kindergeld/Unterhalt** | enthalten | Hilft bei Ausgaben | — |
+| **Rücklagen/Vermögen** | ~5.000€ | Gering, aber vorhanden | Exakte Summe? |
+| **finanzielle Lage** | Stabil | nicht kritisch, aber gering gepuffert | Wie lange ist Runway? |
 
 ### Ziellebensstandard
 
-- **Wunsch:** 5.000€ netto monatlich
+- **Wunsch:** 5.000€ netto monatlich (persönlich)
 - **Warum:** für "Spielraum, Reisen, Anschaffungen ohne rechnen"
 - **Aktuelle Deckung:** ~50% (Deutsche Bahn + SafeGuard), Omnipresent noch minimal
+
+**Hinweis:** Das ist das persönliche Einkommensziel. Der Umsatz von Omnipresent ist eine separate Frage.
 
 ---
 

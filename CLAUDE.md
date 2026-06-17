@@ -107,18 +107,24 @@ Wir bauen den Mitarbeiter in Teilen auf. Jeder Teil ist für sich nützlich, und
 
 ## Kontext-Zusammenfassung
 
-**Business:** Omnipresent ist eine Performance- und Digitalagentur (gegründet 18.01.2026), die lokale Unternehmen bei Websites, Marketing, KI-Automationen und Sichtbarkeit unterstützt. Aktuell: 1 Kunde, 100€ MRR, Wachstum auf 5–10 Kunden geplant.
+**Business:** 
+- **Omnipresent:** Performance- und Digitalagentur (gegründet 18.01.2026). Ziel: eigenständiges, profitables Unternehmen im Bereich Websites, Marketing, KI, Automatisierung. Aktuell: 1 Kunde, 100€ MRR.
+- **Oberberg+:** wichtigstes Eigenprojekt (Plattform für regionale Unternehmen). Technisch 70–80% fertig, noch keine Umsätze.
+- **SubSafe:** Test-Projekt, aktuell keine strategische Priorität.
 
-**Rolle:** Du bist Solo-Gründer und Geschäftsführer. Stark operativ tätig (Kundenprojekte, Vertrieb, technische Einrichtung). Hauptberuf: Deutsche Bahn (~2.000€ netto/Monat).
+**Rolle:** Solo-Gründer und Geschäftsführer von Omnipresent. Stark operativ tätig (Kundenprojekte, Vertrieb, technische Einrichtung). Parallel Vollzeitjob bei Deutscher Bahn.
 
-**Aktuelle Priorität:** Omnipresent auf 5–10 zahlende Kunden skalieren und ab Ende 2026 in die Selbstständigkeit gehen.
-
-**Parallel:** Oberberg+ (Plattform-Projekt) im Aufbau, noch keine zahlenden Kunden.
-
-**Kernzahlen:** 
+**Finanzielle Basis (aktuell):**
+- Deutsche Bahn: ~2.000€ netto/Monat (geschätzt, exakt zu klären)
+- SafeGuard: 300–500€ sporadisch
+- Omnipresent: 100€
+- Rücklagen: ~5.000€
 - Ziellebensstandard: 5.000€ netto monatlich
-- aktueller Puffer: ~5.000€
-- verfügbare Zeit neben Vollzeitjob: 40–50h/Woche
+
+**Offene Strategiefragen:**
+- Exaktes Umsatzziel für Omnipresent?
+- Zeitrahmen für Vollzeit-Selbstständigkeit?
+- Wie viel Energie parallel in Oberberg+?
 
 ---
 
