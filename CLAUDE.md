@@ -115,11 +115,12 @@ Wir bauen den Mitarbeiter in Teilen auf. Jeder Teil ist für sich nützlich, und
 **Rolle:** Solo-Gründer und Geschäftsführer von Omnipresent. Stark operativ tätig (Kundenprojekte, Vertrieb, technische Einrichtung). Parallel Vollzeitjob bei Deutscher Bahn.
 
 **Finanzielle Basis (aktuell):**
-- Deutsche Bahn: ~2.000€ netto/Monat (geschätzt, exakt zu klären)
-- SafeGuard: 300–500€ sporadisch
-- Omnipresent: 100€
+- Deutsche Bahn: ~1.811€ netto/Monat (Schichtarbeit, variabel)
+- SafeGuard: 300–500€ sporadisch (wenn Schichten verfügbar)
+- Omnipresent: 100€ MRR
+- Gesamteinnahmen aktuell: ~2.100–2.300€
 - Rücklagen: ~5.000€
-- Ziellebensstandard: 5.000€ netto monatlich
+- **Lücke zum Zielstandard: ~2.700–2.900€**
 
 **Offene Strategiefragen:**
 - Exaktes Umsatzziel für Omnipresent?

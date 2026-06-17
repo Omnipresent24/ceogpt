@@ -59,10 +59,10 @@
 
 | Quelle | Betrag | Status | OFFEN |
 |---|---|---|---|
-| **Deutsche Bahn** | ~2.000€ netto (geschätzt) | Hauptjob, stabil | Exakte Summe? |
+| **Deutsche Bahn** | ~1.811€ netto (Mai 2026) | Schichtarbeit, variabel je nach Schichten | Kann monatlich variieren |
 | **SafeGuard** | 300–500€ (sporadisch) | Wenn Schichten verfügbar | Durchschnitt pro Monat? |
 | **Omnipresent** | 100€ MRR | 1 Kunde | Wird aufgebaut |
-| **Gesamt (aktuell)** | ~2.400–2.600€ | geschätzt | Exakte Summe aus DB nötig |
+| **Gesamt (aktuell)** | ~2.100–2.300€ | DB ~1.811€ + SafeGuard 300–500€ (variabel) | kann monatlich schwanken |
 
 ### Ausgaben & Vermögen
 
