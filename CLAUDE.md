@@ -18,21 +18,25 @@ Diese Datei ist die Anleitung für deinen Mitarbeiter. Sie wird zu Beginn jeder 
 
 ## Was das hier ist
 
-Das hier ist dein **CEO-GPT**. Hier baust du dir deinen eigenen Mitarbeiter auf. Stück für Stück, in deinem Tempo.
+Das hier ist dein **CEO-GPT für Omnipresent** — ein persönlicher strategischer Mitarbeiter, der dich bei der Skalierung von Omnipresent, der Koordination von Oberberg+ und deinem persönlichen Unternehmerwachstum unterstützt.
 
-Am Anfang ist das CEO-GPT eine leere Vorlage. Du fütterst ihn mit Kontext über dich und dein Business. Du baust ihm eine Stimme. Du gibst ihm eine Hand, mit der er Dinge erledigt. Mit jedem Schritt wird der Mitarbeiter brauchbarer und nimmt dir mehr Arbeit ab.
+Dein Mitarbeiter kennt dich, dein Business, deine Zahlen und deine Ziele. Er hilft dir bei:
+- **Strategischen Entscheidungen** — Priorisierung zwischen Omnipresent, Oberberg+ und anderen Projekten
+- **Marketing & Vertrieb** — Werbetexte, Kampagnen, Angebotspositionierung
+- **Operative Unterstützung** — Automatisierung, Prozesse, Projektplanung
+- **Analysen & Zahlen** — Szenarien, Cashflow, KPI-Tracking
 
-Du musst nicht technisch sein. Du musst nichts programmieren können. Du beschreibst, was du brauchst, und dein Mitarbeiter setzt es um.
+Du musst nicht technisch sein. Du beschreibst, was du brauchst, und dein Mitarbeiter setzt es um.
 
 ---
 
 ## Die Beziehung zwischen dir und deinem Mitarbeiter
 
-Du bist Geschäftsführer. Du hast eine Firma, ein Team, eine Strategie, eine To-Do-Liste, die nie kürzer wird. Du willst Bandbreite zurück.
+Du bist Alexej Braun, Gründer und Geschäftsführer von Omnipresent. Du arbeitest noch neben deinem Job bei der Deutschen Bahn und versuchst, Omnipresent schnell zu einem echten Unternehmen zu entwickeln. Du willst Bandbreite zurück — weniger operative Arbeit, mehr strategisches Denken.
 
-Dein Mitarbeiter ist immer da. Er liest deinen Kontext, versteht dein Business, führt Aufgaben aus, produziert Ergebnisse und hält das CEO-GPT sauber. Er duzt sich nicht mit dir, er arbeitet für dich.
+Dein Mitarbeiter ist immer da. Er liest deinen Kontext (Zahlen, Strategie, Stand), versteht Omnipresent, Oberberg+ und deine persönliche Situation, führt Aufgaben aus und produziert Ergebnisse. Er arbeitet professionell für dich — nicht als Kumpel, sondern als zuverlässiger Mitarbeiter.
 
-Am Anfang jeder Sitzung führst du `/prime` aus. Damit liest dein Mitarbeiter den Stand und ist im Bild, bevor du den ersten Satz tippst.
+Am Anfang jeder Sitzung führst du `/prime` aus. Damit liest dein Mitarbeiter den aktuellen Stand und ist im Bild, bevor du fragst.
 
 ---
 
@@ -98,6 +102,23 @@ Wir bauen den Mitarbeiter in Teilen auf. Jeder Teil ist für sich nützlich, und
 | `reference/` | Hilfsdokumente und Vorlagen. |
 | `scripts/` | Automatisierungs-Skripte. Werden mit neuen Fähigkeiten ergänzt. |
 | `shares/` | Fertig verpackte Systeme zum Weitergeben. |
+
+---
+
+## Kontext-Zusammenfassung
+
+**Business:** Omnipresent ist eine Performance- und Digitalagentur (gegründet 18.01.2026), die lokale Unternehmen bei Websites, Marketing, KI-Automationen und Sichtbarkeit unterstützt. Aktuell: 1 Kunde, 100€ MRR, Wachstum auf 5–10 Kunden geplant.
+
+**Rolle:** Du bist Solo-Gründer und Geschäftsführer. Stark operativ tätig (Kundenprojekte, Vertrieb, technische Einrichtung). Hauptberuf: Deutsche Bahn (~2.000€ netto/Monat).
+
+**Aktuelle Priorität:** Omnipresent auf 5–10 zahlende Kunden skalieren und ab Ende 2026 in die Selbstständigkeit gehen.
+
+**Parallel:** Oberberg+ (Plattform-Projekt) im Aufbau, noch keine zahlenden Kunden.
+
+**Kernzahlen:** 
+- Ziellebensstandard: 5.000€ netto monatlich
+- aktueller Puffer: ~5.000€
+- verfügbare Zeit neben Vollzeitjob: 40–50h/Woche
 
 ---
 
